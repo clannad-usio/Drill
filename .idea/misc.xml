@@ -43,8 +43,4 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration useDefault="false">C:\Users\cc\AppData\Roaming\Subversion</configuration>
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="true" />
-  </component>
 </project>
